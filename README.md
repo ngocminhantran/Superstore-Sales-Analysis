@@ -13,6 +13,11 @@ Therefore, the goal for Data Analyst is to create a dashboard on the company's b
 2. Create a PowerBI Dashboard.
 3. Give insights and recommendations.
 ## Design Thinking spreadsheet
+<img width="670" alt="Screenshot 2023-07-03 at 09 01 57" src="https://github.com/ngocminhantran/Superstore-Sales-Analysis/assets/130781119/5a1fb706-868d-450d-a60f-ed5b3ba60942">
+
+## Dashboard
+![Superstore Sales Dashboard](https://github.com/ngocminhantran/Superstore-Sales-Analysis/assets/130781119/aba75176-8e65-465e-b39e-e5ea262de2ae)
+
 ## Insights and recommendation
 ### Insights
 #### General business situation
